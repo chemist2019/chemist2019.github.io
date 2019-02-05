@@ -8,7 +8,7 @@ feature_row:
   - image_path: /assets/images/OSMM_Topography_Layer.jpg
     id: "fr_1"
     alt: "Topography Image"
-    title: "OS MasterMap Topography"
+    title: "HELLO OS MasterMap Topography"
     excerpt: "Most detailed and accurate view of Great Britain's landscape – from roads to fields, to buildings and trees and more."
     url: "#https://github.com/raehelen/OS-MasterMap-Topography"
     btn_label: "GitHub" 
